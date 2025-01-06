@@ -206,6 +206,7 @@ section {
 .set-row img {
     width: 680px;
     height: auto;
+    align-items: center;
 }
 
 #about {
